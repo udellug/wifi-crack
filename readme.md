@@ -9,7 +9,7 @@ install deps:
 $ sudo apt-get install build-essential libssl-dev libnl-3-dev pkg-config libnl-genl-3-dev
 
 
-install aircrack:
+install aircrack (or use package manager):
 
 $ wget http://download.aircrack-ng.org/aircrack-ng-1.2-rc4.tar.gz  -O - | tar -xz
 $ cd aircrack-ng-1.2-rc4
